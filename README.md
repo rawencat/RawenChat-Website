@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chat.rawencat.tech">Web</a> · <a href="#features">Features</a> · <a href="#download">Descargar</a> · <a href="#tech-stack">Tech Stack</a>
+  <a href="https://chat.rawencat.tech">Web</a> · <a href="#features">Features</a> · <a href="https://chat.rawencat.tech/">Descargar</a> · <a href="#tech-stack">Tech Stack</a>
 </p>
 
 ---
